@@ -1,0 +1,17 @@
+{
+  "name": "20-think_somthing",
+  "version": "2.0.2",
+  "main": "index.js",
+  "type":"module",
+  "bin":"think-of-something.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}

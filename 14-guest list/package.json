@@ -1,0 +1,16 @@
+{
+  "name": "14-guest-list",
+  "version": "2.0.2",
+  "main": "index.js",
+  "type":"module",
+  "bin":"guestlist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}

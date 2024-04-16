@@ -1,0 +1,20 @@
+{
+  "name": "16-more-guests",
+  "version": "2.0.2",
+  "main": "index.js",
+  "type":"module",
+  "bin":"moreguest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "keywords": [],
+  "description": ""
+}
